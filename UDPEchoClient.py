@@ -3,7 +3,7 @@
 import socket
 
 host = '203.250.133.88'
-port = 10002
+port = 10070
 BUFF_SIZE = 128
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
